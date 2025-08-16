@@ -113,7 +113,7 @@ console.log(process.env.PORT); // Output: 3000
 
 ## Task
 
-- Refactor your previous CRUD operations by following this structure.
+- Refactor your previous CRUD operations task by following this structure.
   (Refactor means to edit and use your old code **DON'T CREATE NEW ONE** )
 - Create **API Test** on [Thunder Client or Postman]
 
